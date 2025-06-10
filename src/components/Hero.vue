@@ -13,7 +13,7 @@
         </p>
         <div class="flex flex-col sm:flex-row justify-center lg:justify-start gap-5">
           <a
-            href="https://wa.me/6281234567890"
+            href="https://wa.me/6285711151477"
             target="_blank"
             class="px-8 py-4 bg-green-500 text-white text-lg font-bold rounded-full shadow-lg hover:bg-green-600 transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-4 focus:ring-green-300"
           >
@@ -42,7 +42,7 @@
 </template>
 
 <script setup>
-// Script section remains clean, no extra logic needed for this design.
+
 </script>
 
 <style scoped>

@@ -181,7 +181,7 @@ const services = [
   }
 ];
 
-const whatsappNumber = '6285711151477';
+const whatsappNumber = '6285813468275';
 
 // State untuk Modal
 const showOrderModal = ref(false);
